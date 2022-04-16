@@ -1,0 +1,1114 @@
+{
+    "info": 
+    {
+        "generated_on": "2022-04-14", 
+        "slice": "sample", 
+        "version": "v1"
+    }, 
+    "playlists": 
+    [
+        {
+            "name": "Study", 
+            "collaborative": "false", 
+            "pid": 999000, 
+            "modified_at": 1468800000, 
+            "num_tracks": 28, 
+            "num_albums": 18, 
+            "num_followers": 1, 
+            "tracks": 
+            [
+                {
+                    "pos": 0, 
+                    "artist_name": "Yiruma", 
+                    "track_uri": "spotify:track:7fnqltLx83HsYLQajzCYRk", 
+                    "artist_uri": "spotify:artist:0fauHpmSHwodVYIjTqOGHz", 
+                    "track_name": "River Flows In You", 
+                    "album_uri": "spotify:album:0vIR7YccgfLA1f5wcXZa4Z", 
+                    "duration_ms": 185013, 
+                    "album_name": "River Flows In You"
+                }, 
+                {
+                    "pos": 1, 
+                    "artist_name": "Fr\u00e9d\u00e9ric Chopin", 
+                    "track_uri": "spotify:track:3w8507pR0Ncycrol0ZJOwP", 
+                    "artist_uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4", 
+                    "track_name": "Ballade No. 4 in F minor Op. 52", 
+                    "album_uri": "spotify:album:2ML75R6Z1LEFgPNZS0Ce3D", 
+                    "duration_ms": 676000, 
+                    "album_name": "The Best of Chopin"
+                }, 
+                {
+                    "pos": 2, 
+                    "artist_name": "Alexander Pitamic", 
+                    "track_uri": "spotify:track:59E6rPql7W8q2sodZpg1qQ", 
+                    "artist_uri": "spotify:artist:4TuTJcUBhYyPoHYTSQzGAM", 
+                    "track_name": "Serenade f\u00fcr Streicher Nr. 13, G-Dur, KV 525: I. Allegro", 
+                    "album_uri": "spotify:album:3V8JHEeOhi7Z765C6v3Pqr", 
+                    "duration_ms": 391000, 
+                    "album_name": "Wolfgang Amadeus Mozart: Sinfonie Nr. 29, A-Dur, KV 201 - Serenade f\u00fcr Streicher Nr. 13, G-Dur, KV 525"
+                }, 
+                {
+                    "pos": 3, 
+                    "artist_name": "Johann Sebastian Bach", 
+                    "track_uri": "spotify:track:48BSXfxyLLxDIp934Is2A9", 
+                    "artist_uri": "spotify:artist:5aIqB5nVVvmFsvSdExz408", 
+                    "track_name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prelude", 
+                    "album_uri": "spotify:album:2cj4D33pmIvDCiDYWg80Nj", 
+                    "duration_ms": 132120, 
+                    "album_name": "Bach, J.S.: 6 Suites for Solo Cello, Bwv 1007-1012"
+                }, 
+                {
+                    "pos": 4, 
+                    "artist_name": "Hans Zimmer", 
+                    "track_uri": "spotify:track:4aW4Dpz3gpb619hBXDrFUa", 
+                    "artist_uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ", 
+                    "track_name": "Honor [Main Title Theme From \"The Pacific\"]", 
+                    "album_uri": "spotify:album:0NH1WrtzRBlZS1VJX2XnXr", 
+                    "duration_ms": 176586, 
+                    "album_name": "The Pacific (Music From the HBO Miniseries)"
+                }, 
+                {
+                    "pos": 5, 
+                    "artist_name": "Hans Zimmer", 
+                    "track_uri": "spotify:track:79ch1KhwRkS6aRHqcY3uST", 
+                    "artist_uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ", 
+                    "track_name": "Landing Peleliu", 
+                    "album_uri": "spotify:album:0NH1WrtzRBlZS1VJX2XnXr", 
+                    "duration_ms": 202560, 
+                    "album_name": "The Pacific (Music From the HBO Miniseries)"
+                }, 
+                {
+                    "pos": 6, 
+                    "artist_name": "David Robidoux", 
+                    "track_uri": "spotify:track:5yeyJAaNge8igqRd8YGgru", 
+                    "artist_uri": "spotify:artist:1NF94pbODyAcYFh8PpbvfS", 
+                    "track_name": "Give 'Em a Chance", 
+                    "album_uri": "spotify:album:4NQpCYgtXb8q7f76i0QCQr", 
+                    "duration_ms": 147610, 
+                    "album_name": "Hard Knocks Volume 2 (Soundtrack from the HBO Series)"
+                }, 
+                {
+                    "pos": 7, 
+                    "artist_name": "Dominik Hauser", 
+                    "track_uri": "spotify:track:4NAP53MeGEffncl2H1SX4V", 
+                    "artist_uri": "spotify:artist:4MTfVjZzx72caVcbCjUK73", 
+                    "track_name": "\"Straight Up and Down\" - (From \"Boardwalk Empire\")", 
+                    "album_uri": "spotify:album:47oWfmsIZQgFihMssUuAus", 
+                    "duration_ms": 90969, 
+                    "album_name": "Television's Finest: Volume Five - The 2000's"
+                }, 
+                {
+                    "pos": 8, 
+                    "artist_name": "Ennio Morricone", 
+                    "track_uri": "spotify:track:6PrKZUXJPmBiobMN44yR8Y", 
+                    "artist_uri": "spotify:artist:1nIUhcKHnK6iyumRyoV68C", 
+                    "track_name": "L'Estasi Dell'oro (The Ecstasy Of Gold) - 2004 Digital Remaster", 
+                    "album_uri": "spotify:album:1oLT2HO5MVNS8U4kEuBvdJ", 
+                    "duration_ms": 203226, 
+                    "album_name": "The Good, The Bad & The Ugly"
+                }, 
+                {
+                    "pos": 9, 
+                    "artist_name": "London Music Works", 
+                    "track_uri": "spotify:track:53LYmvN8vMLqZ1NZE2efPC", 
+                    "artist_uri": "spotify:artist:0VeT7hHTJFJZcENGekjCsB", 
+                    "track_name": "Requiem For A Tower", 
+                    "album_uri": "spotify:album:7dJVWUeXLaRM0757JBKmeV", 
+                    "duration_ms": 250466, 
+                    "album_name": "Coming Soon - Trailer Tunes"
+                }, 
+                {
+                    "pos": 10, 
+                    "artist_name": "The London Pops Orchestra, Conducted by Nelson Corbin", 
+                    "track_uri": "spotify:track:1Zx0HBD6TK0X6lzrxtPWth", 
+                    "artist_uri": "spotify:artist:0tHzApolLRnBD2Pqdb5N6I", 
+                    "track_name": "Toccata and Fugue in d monor, BWV 565, Johann Sebastian Bach", 
+                    "album_uri": "spotify:album:39sRSYiqzjiFpV53Qcewfo", 
+                    "duration_ms": 542000, 
+                    "album_name": "Music From Fantasia"
+                }, 
+                {
+                    "pos": 11, 
+                    "artist_name": "Andrea Bocelli", 
+                    "track_uri": "spotify:track:1DzDYmTIaLPQDAALkrjXg1", 
+                    "artist_uri": "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo", 
+                    "track_name": "Time To Say Goodbye (Con Te Partiro)", 
+                    "album_uri": "spotify:album:0wBC2L2Gqu2X0pI8ONisdF", 
+                    "duration_ms": 247000, 
+                    "album_name": "Romanza"
+                }, 
+                {
+                    "pos": 12, 
+                    "artist_name": "Stuttgart Chamber Orchestra", 
+                    "track_uri": "spotify:track:7DTp0wFpktphrM7vDnPCs1", 
+                    "artist_uri": "spotify:artist:51RiZjPgKKJ1uDsZVmntmF", 
+                    "track_name": "The Four Seasons", 
+                    "album_uri": "spotify:album:3EvjhreyDz2ks1LgZCy0Lu", 
+                    "duration_ms": 193464, 
+                    "album_name": "Ultimate Wedding Collection: Ceremony"
+                }, 
+                {
+                    "pos": 13, 
+                    "artist_name": "The London Film Score Orchestra", 
+                    "track_uri": "spotify:track:65iKIxXPoNOpPYQsc5te6X", 
+                    "artist_uri": "spotify:artist:73Fn8jqdMFpFm7iD1I9Byp", 
+                    "track_name": "Skyfall (Theme Song) [From \"Skyfall\"] [Bonus Track]", 
+                    "album_uri": "spotify:album:6vM6wTcGyvYaJn8gmV8wRY", 
+                    "duration_ms": 290067, 
+                    "album_name": "Soundtrack Music from the 2013 Film Awards, Los Angeles, USA"
+                }, 
+                {
+                    "pos": 14, 
+                    "artist_name": "Hans Zimmer", 
+                    "track_uri": "spotify:track:0Wel6UModISczHwHHrdoNq", 
+                    "artist_uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ", 
+                    "track_name": "Discombobulate", 
+                    "album_uri": "spotify:album:5R34nmGZeKu9WXtJvcVmb6", 
+                    "duration_ms": 144933, 
+                    "album_name": "Sherlock Holmes (Original Motion Picture Soundtrack)"
+                }, 
+                {
+                    "pos": 15, 
+                    "artist_name": "Hans Zimmer", 
+                    "track_uri": "spotify:track:12sj1ybHe6d5I2ltGQr7Iz", 
+                    "artist_uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ", 
+                    "track_name": "Is It Poison, Nanny?", 
+                    "album_uri": "spotify:album:5R34nmGZeKu9WXtJvcVmb6", 
+                    "duration_ms": 173093, 
+                    "album_name": "Sherlock Holmes (Original Motion Picture Soundtrack)"
+                }, 
+                {
+                    "pos": 16, 
+                    "artist_name": "Hans Zimmer", 
+                    "track_uri": "spotify:track:4PuFXUIKk7ZauOScDrrITg", 
+                    "artist_uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ", 
+                    "track_name": "My Mind Rebels At Stagnation", 
+                    "album_uri": "spotify:album:5R34nmGZeKu9WXtJvcVmb6", 
+                    "duration_ms": 271586, 
+                    "album_name": "Sherlock Holmes (Original Motion Picture Soundtrack)"
+                }, 
+                {
+                    "pos": 17, 
+                    "artist_name": "Hans Zimmer", 
+                    "track_uri": "spotify:track:78VTQtPvz5pcE6BL7ahLmf", 
+                    "artist_uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ", 
+                    "track_name": "Data, Data, Data", 
+                    "album_uri": "spotify:album:5R34nmGZeKu9WXtJvcVmb6", 
+                    "duration_ms": 135893, 
+                    "album_name": "Sherlock Holmes (Original Motion Picture Soundtrack)"
+                }, 
+                {
+                    "pos": 18, 
+                    "artist_name": "Hans Zimmer", 
+                    "track_uri": "spotify:track:49EwnDEo5CY6Hn0dxiP9A3", 
+                    "artist_uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ", 
+                    "track_name": "He's Killed The Dog Again", 
+                    "album_uri": "spotify:album:5R34nmGZeKu9WXtJvcVmb6", 
+                    "duration_ms": 195346, 
+                    "album_name": "Sherlock Holmes (Original Motion Picture Soundtrack)"
+                }, 
+                {
+                    "pos": 19, 
+                    "artist_name": "Richard Armitage", 
+                    "track_uri": "spotify:track:1yJzoX4xPsACzVxUarXRKa", 
+                    "artist_uri": "spotify:artist:6DQsmplq17UDA3zmiybbSb", 
+                    "track_name": "Misty Mountains", 
+                    "album_uri": "spotify:album:3mMzACib09CHoUckDa3AR9", 
+                    "duration_ms": 99680, 
+                    "album_name": "The Hobbit: An Unexpected Journey Original Motion Picture Soundtrack"
+                }, 
+                {
+                    "pos": 20, 
+                    "artist_name": "Klaus Badelt", 
+                    "track_uri": "spotify:track:3rPmRqTPwBs5qCotzfqpwO", 
+                    "artist_uri": "spotify:artist:03GruNQP8X25PCoWzdvIGZ", 
+                    "track_name": "Fog Bound - From \"Pirates of the Caribbean: The Curse Of the Black Pearl\"/Score", 
+                    "album_uri": "spotify:album:4Qe057XqKloVNhnPohj6Yo", 
+                    "duration_ms": 136480, 
+                    "album_name": "Pirates of the Caribbean: The Curse of the Black Pearl"
+                }, 
+                {
+                    "pos": 21, 
+                    "artist_name": "Klaus Badelt", 
+                    "track_uri": "spotify:track:35gFlKdC4Pmo88Go1cVrae", 
+                    "artist_uri": "spotify:artist:03GruNQP8X25PCoWzdvIGZ", 
+                    "track_name": "The Medallion Calls - From \"Pirates of the Caribbean: The Curse Of the Black Pearl\"/Score", 
+                    "album_uri": "spotify:album:4Qe057XqKloVNhnPohj6Yo", 
+                    "duration_ms": 112506, 
+                    "album_name": "Pirates of the Caribbean: The Curse of the Black Pearl"
+                }, 
+                {
+                    "pos": 22, 
+                    "artist_name": "Klaus Badelt", 
+                    "track_uri": "spotify:track:08QaHlMPWuO5PUxjl61bXn", 
+                    "artist_uri": "spotify:artist:03GruNQP8X25PCoWzdvIGZ", 
+                    "track_name": "He's a Pirate - From \"Pirates of the Caribbean: The Curse Of the Black Pearl\"/Score", 
+                    "album_uri": "spotify:album:4Qe057XqKloVNhnPohj6Yo", 
+                    "duration_ms": 90426, 
+                    "album_name": "Pirates of the Caribbean: The Curse of the Black Pearl"
+                }, 
+                {
+                    "pos": 23, 
+                    "artist_name": "John Williams", 
+                    "track_uri": "spotify:track:4lg0h4AJhPMxbO3VMpbUqS", 
+                    "artist_uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb", 
+                    "track_name": "Harry's Wondrous World", 
+                    "album_uri": "spotify:album:6zeHM5CV0CjcS0K8ouWE4N", 
+                    "duration_ms": 321066, 
+                    "album_name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack"
+                }, 
+                {
+                    "pos": 24, 
+                    "artist_name": "John Williams", 
+                    "track_uri": "spotify:track:6CeCOC2zx1qS8mQNYHe6IM", 
+                    "artist_uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb", 
+                    "track_name": "Prologue", 
+                    "album_uri": "spotify:album:6zeHM5CV0CjcS0K8ouWE4N", 
+                    "duration_ms": 130293, 
+                    "album_name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack"
+                }, 
+                {
+                    "pos": 25, 
+                    "artist_name": "John Williams", 
+                    "track_uri": "spotify:track:0UDSwgomgI5bK1x1eYeBez", 
+                    "artist_uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb", 
+                    "track_name": "Entry into the Great Hall and The Banquet", 
+                    "album_uri": "spotify:album:6zeHM5CV0CjcS0K8ouWE4N", 
+                    "duration_ms": 222093, 
+                    "album_name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack"
+                }, 
+                {
+                    "pos": 26, 
+                    "artist_name": "John Williams", 
+                    "track_uri": "spotify:track:4WPw9shOzxaA4cWws44Xjd", 
+                    "artist_uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb", 
+                    "track_name": "Christmas at Hogwarts", 
+                    "album_uri": "spotify:album:6zeHM5CV0CjcS0K8ouWE4N", 
+                    "duration_ms": 175533, 
+                    "album_name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack"
+                }, 
+                {
+                    "pos": 27, 
+                    "artist_name": "\u00c9dith Piaf", 
+                    "track_uri": "spotify:track:4FmiciU3ZmfgABlbCSXcWw", 
+                    "artist_uri": "spotify:artist:1WPcVNert9hn7mHsPKDn7j", 
+                    "track_name": "La vie en rose", 
+                    "album_uri": "spotify:album:7l3ydaHRFTcEGM0D9rlfqS", 
+                    "duration_ms": 186973, 
+                    "album_name": "de l'accordeoniste a milord"
+                }
+            ], 
+            "num_edits": 8, 
+            "duration_ms": 6123982, 
+            "num_artists": 17
+        }, 
+        {
+            "name": "Megan", 
+            "collaborative": "false", 
+            "pid": 999001, 
+            "modified_at": 1467504000, 
+            "num_tracks": 14, 
+            "num_albums": 14, 
+            "num_followers": 2, 
+            "tracks": [
+                {
+                    "pos": 0, 
+                    "artist_name": "The Dustbowl Revival", 
+                    "track_uri": "spotify:track:2b0ESQ5Usf0yEjkq86xI8p", 
+                    "artist_uri": "spotify:artist:3cB0nIIeIGSuMlw6rnu1dm", 
+                    "track_name": "Standing Next to Me - Live", 
+                    "album_uri": "spotify:album:0MhXYqh4p1cjbPYV0Sasg9", 
+                    "duration_ms": 220266, 
+                    "album_name": "With a Lampshade On (Live)"
+                }, 
+                {
+                    "pos": 1, 
+                    "artist_name": "Ginuwine", 
+                    "track_uri": "spotify:track:3pfXxHoydFRfD7IBGJTQAN", 
+                    "artist_uri": "spotify:artist:7r8RF1tN2A4CiGEplkp1oP", 
+                    "track_name": "Pony", 
+                    "album_uri": "spotify:album:3O2912EZv0FBJKZ0K5ruzK", 
+                    "duration_ms": 251733, 
+                    "album_name": "R&B: From Doo-Wop To Hip-Hop"
+                }, 
+                {
+                    "pos": 2, 
+                    "artist_name": "R\u00dcF\u00dcS", 
+                    "track_uri": "spotify:track:77lqbary6vt1DSc1MBN6sx", 
+                    "artist_uri": "spotify:artist:5Pb27ujIyYb33zBqVysBkj", 
+                    "track_name": "You Were Right", 
+                    "album_uri": "spotify:album:396Y1EKWxeJt2Yh3Da1for", 
+                    "duration_ms": 239417, 
+                    "album_name": "Bloom"
+                }, 
+                {
+                    "pos": 3, 
+                    "artist_name": "Radiohead", 
+                    "track_uri": "spotify:track:2nTsKOXIVGDf2iPeVQO2Gm", 
+                    "artist_uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb", 
+                    "track_name": "Paranoid Android", 
+                    "album_uri": "spotify:album:7dxKtc08dYeRVHt3p9CZJn", 
+                    "duration_ms": 387213, 
+                    "album_name": "OK Computer"
+                }, 
+                {
+                    "pos": 4, 
+                    "artist_name": "Otis Redding", 
+                    "track_uri": "spotify:track:3zBhihYUHBmGd2bcQIobrF", 
+                    "artist_uri": "spotify:artist:60df5JBRRPcnSpsIMxxwQm", 
+                    "track_name": "(Sittin' On) The Dock Of The Bay", 
+                    "album_uri": "spotify:album:03HMOcANauhLD0WNrMkmLU", 
+                    "duration_ms": 163755, 
+                    "album_name": "The Dock Of The Bay"
+                }, 
+                {
+                    "pos": 5, 
+                    "artist_name": "Yonder Mountain String Band", 
+                    "track_uri": "spotify:track:0QfwMzhgvouT6uvDoGw975", 
+                    "artist_uri": "spotify:artist:1ReHC2jB2DGoPbMYhzuFuO", 
+                    "track_name": "Ever Fallen in Love with Someone You Shouldn't Have", 
+                    "album_uri": "spotify:album:1KT43ugLeWkKwdAsbVLhvN", 
+                    "duration_ms": 214386, 
+                    "album_name": "Black Sheep"
+                }, 
+                {
+                    "pos": 6, 
+                    "artist_name": "The California Honeydrops", 
+                    "track_uri": "spotify:track:0H9PHWhpMI7LEhZu6U9Cfb", 
+                    "artist_uri": "spotify:artist:21t0aavYGSGFkYYFhu6urk", 
+                    "track_name": "All Day, All Night", 
+                    "album_uri": "spotify:album:1x9DUB4rsa4HE9cbGHUXOi", 
+                    "duration_ms": 131736, 
+                    "album_name": "Like You Mean It"
+                }, 
+                {
+                    "pos": 7, 
+                    "artist_name": "A Tribe Called Quest", 
+                    "track_uri": "spotify:track:3Ti0GdlrotgwsAVBBugv0I", 
+                    "artist_uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa", 
+                    "track_name": "Can I Kick It?", 
+                    "album_uri": "spotify:album:3kV0i1qqudjf0PGawJ4jck", 
+                    "duration_ms": 251573, 
+                    "album_name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)"
+                }, 
+                {
+                    "pos": 8, 
+                    "artist_name": "The Chainsmokers", 
+                    "track_uri": "spotify:track:0QsvXIfqM0zZoerQfsI9lm", 
+                    "artist_uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp", 
+                    "track_name": "Don't Let Me Down", 
+                    "album_uri": "spotify:album:3ShQFl9FladFKlonwPGZFc", 
+                    "duration_ms": 208053, 
+                    "album_name": "The Chainsmokers- Japan Special Edition"
+                }, 
+                {
+                    "pos": 9, 
+                    "artist_name": "Lettuce", 
+                    "track_uri": "spotify:track:17EstPHlkjKJYF00jbOe5h", 
+                    "artist_uri": "spotify:artist:1fZXjUQEkVbB0TvZX4qFR8", 
+                    "track_name": "Move on Up", 
+                    "album_uri": "spotify:album:1zlM7SmfDYmOWbOLk6d34Y", 
+                    "duration_ms": 214480, 
+                    "album_name": "Rage"
+                }, 
+                {
+                    "pos": 10, 
+                    "artist_name": "Hot Chip", 
+                    "track_uri": "spotify:track:2l9p0OhXXyVaUoZVYVXcCu", 
+                    "artist_uri": "spotify:artist:37uLId6Z5ZXCx19vuruvv5", 
+                    "track_name": "Baby Said", 
+                    "album_uri": "spotify:album:4RojOihiRmD4g7qVr6m4yK", 
+                    "duration_ms": 296520, 
+                    "album_name": "Coming On Strong"
+                }, 
+                {
+                    "pos": 11, 
+                    "artist_name": "Flume", 
+                    "track_uri": "spotify:track:12REd1n8PeiHHWOh066tpr", 
+                    "artist_uri": "spotify:artist:6nxWCVXbOlEVRexSbLsTer", 
+                    "track_name": "Never Be Like You", 
+                    "album_uri": "spotify:album:3zXR5GOXPq0Uc7tWC9fO3X", 
+                    "duration_ms": 233337, 
+                    "album_name": "Skin"
+                }, 
+                {
+                    "pos": 12, 
+                    "artist_name": "The Flaming Lips", 
+                    "track_uri": "spotify:track:2frHiHPVkiNCBMPkYF83Jr", 
+                    "artist_uri": "spotify:artist:16eRpMNXSQ15wuJoeqguaB", 
+                    "track_name": "The W.A.N.D.", 
+                    "album_uri": "spotify:album:6oVaKzODiXqew6MScEd7T4", 
+                    "duration_ms": 222866, 
+                    "album_name": "At War With The Mystics"
+                }, 
+                {
+                    "pos": 13, 
+                    "artist_name": "Tame Impala", 
+                    "track_uri": "spotify:track:6vTtMyCg96xwpoIBws9K0Q", 
+                    "artist_uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb", 
+                    "track_name": "Feels Like We Only Go Backwards", 
+                    "album_uri": "spotify:album:76vY9yohh4kVwSKkyKbyEQ", 
+                    "duration_ms": 192960, 
+                    "album_name": "Lonerism"
+                }
+            ], 
+            "num_edits": 10, 
+            "duration_ms": 3228295, 
+            "num_artists": 14
+        }, 
+        {
+            "name": "tbd", 
+            "collaborative": "false", 
+            "pid": 999002, 
+            "modified_at": 1473984000, 
+            "num_tracks": 64, 
+            "num_albums": 53, 
+            "num_followers": 1, 
+            "tracks": [
+                {
+                    "pos": 0, 
+                    "artist_name": "Broods", 
+                    "track_uri": "spotify:track:172rZlTV0yE2La5N19clgq", 
+                    "artist_uri": "spotify:artist:5r5Va4lVQ1zjEfbJSrmCsS", 
+                    "track_name": "Evergreen", 
+                    "album_uri": "spotify:album:0HrAEwPOV0brDG0wvTWXUB", 
+                    "duration_ms": 267460, 
+                    "album_name": "Evergreen"
+                }, 
+                {
+                    "pos": 1, 
+                    "artist_name": "Kent Jones", 
+                    "track_uri": "spotify:track:3OGZfxVRLrJPzrkrR4hYiw", 
+                    "artist_uri": "spotify:artist:3jHBxvZ9gbBkZ17wKUqVsO", 
+                    "track_name": "Alright", 
+                    "album_uri": "spotify:album:1b8WZFrIzbVziGZ8SXVpah", 
+                    "duration_ms": 221960, 
+                    "album_name": "Alright"
+                }, 
+                {
+                    "pos": 2, 
+                    "artist_name": "FRENSHIP", 
+                    "track_uri": "spotify:track:2XMTqoHHSH0lvuXrvIEdco", 
+                    "artist_uri": "spotify:artist:7xEFii6utZmQ61kX59HmLH", 
+                    "track_name": "Capsize", 
+                    "album_uri": "spotify:album:5qeKpDQFyotJjLh61pUZQo", 
+                    "duration_ms": 237706, 
+                    "album_name": "Truce - EP"
+                }, 
+                {
+                    "pos": 3, 
+                    "artist_name": "Broods", 
+                    "track_uri": "spotify:track:0XsVNUmFx0hYW18xIin9ie", 
+                    "artist_uri": "spotify:artist:5r5Va4lVQ1zjEfbJSrmCsS", 
+                    "track_name": "L.A.F", 
+                    "album_uri": "spotify:album:0HrAEwPOV0brDG0wvTWXUB", 
+                    "duration_ms": 167656, 
+                    "album_name": "Evergreen"
+                }, 
+                {
+                    "pos": 4, 
+                    "artist_name": "Majid Jordan", 
+                    "track_uri": "spotify:track:1CJmTfrlU1d6FtAYNT36wD", 
+                    "artist_uri": "spotify:artist:4HzKw8XcD0piJmDrrPRCYk", 
+                    "track_name": "Small Talk", 
+                    "album_uri": "spotify:album:7awpB1UEVeDF6h8mGMssTI", 
+                    "duration_ms": 259173, 
+                    "album_name": "Majid Jordan"
+                }, 
+                {
+                    "pos": 5, 
+                    "artist_name": "A R I Z O N A", 
+                    "track_uri": "spotify:track:4FjPJhlEIWB9QVKFTc78Nn", 
+                    "artist_uri": "spotify:artist:7hOGhpa8RMSuDOWntGIAJt", 
+                    "track_name": "Cross My Mind", 
+                    "album_uri": "spotify:album:2FNk380jCQyICbwtkOdEHE", 
+                    "duration_ms": 218760, 
+                    "album_name": "GALLERY"
+                }, 
+                {
+                    "pos": 6, 
+                    "artist_name": "Ariana Grande", 
+                    "track_uri": "spotify:track:4pLwZjInHj3SimIyN9SnOz", 
+                    "artist_uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR", 
+                    "track_name": "Side To Side", 
+                    "album_uri": "spotify:album:4lVR2fg3DAUQpGVJ6DciHW", 
+                    "duration_ms": 226160, 
+                    "album_name": "Dangerous Woman"
+                }, 
+                {
+                    "pos": 7, 
+                    "artist_name": "Broods", 
+                    "track_uri": "spotify:track:3gkHtnfFxOD2Ts1WYIqYlh", 
+                    "artist_uri": "spotify:artist:5r5Va4lVQ1zjEfbJSrmCsS", 
+                    "track_name": "Full Blown Love", 
+                    "album_uri": "spotify:album:61RfrwKu6wJmaZYh3xt0mF", 
+                    "duration_ms": 210106, 
+                    "album_name": "Conscious"
+                }, 
+                {
+                    "pos": 8, 
+                    "artist_name": "M.I.A.", 
+                    "track_uri": "spotify:track:7MnTFoXNFBoVDa6mYMJ7kc", 
+                    "artist_uri": "spotify:artist:0QJIPDAEDILuo8AIq3pMuU", 
+                    "track_name": "Freedun", 
+                    "album_uri": "spotify:album:2cv4l2iOL3XGdBJXKyRA5R", 
+                    "duration_ms": 282386, 
+                    "album_name": "AIM"
+                }, 
+                {
+                    "pos": 9, 
+                    "artist_name": "Kanye West", 
+                    "track_uri": "spotify:track:3cCxoOgfi6hgt8MNteuiiD", 
+                    "artist_uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", 
+                    "track_name": "Fade", 
+                    "album_uri": "spotify:album:7gsWAHLeT0w7es6FofOXk1", 
+                    "duration_ms": 193747, 
+                    "album_name": "The Life Of Pablo"
+                }, 
+                {
+                    "pos": 10, 
+                    "artist_name": "Bad Suns", 
+                    "track_uri": "spotify:track:0N4RL8OFtthWHPY7QuRywo", 
+                    "artist_uri": "spotify:artist:0YhUSm86okLWldQVwJkLlP", 
+                    "track_name": "Heartbreaker", 
+                    "album_uri": "spotify:album:2YXl7mV4d30fEbwpVQ7YBQ", 
+                    "duration_ms": 206066, 
+                    "album_name": "Disappear Here"
+                }, 
+                {
+                    "pos": 11, 
+                    "artist_name": "Empire of the Sun", 
+                    "track_uri": "spotify:track:2Q7PDjPz7h559wBF97lO07", 
+                    "artist_uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c", 
+                    "track_name": "High And Low", 
+                    "album_uri": "spotify:album:60pRr5JvZkU9XhHg2pBkRy", 
+                    "duration_ms": 224840, 
+                    "album_name": "Two Vines"
+                }, 
+                {
+                    "pos": 12, 
+                    "artist_name": "070 Shake", 
+                    "track_uri": "spotify:track:0PoMoPqIJxe6H0rDMnpGP8", 
+                    "artist_uri": "spotify:artist:12Zk1DFhCbHY6v3xep2ZjI", 
+                    "track_name": "Honey", 
+                    "album_uri": "spotify:album:1UX5QXG2yPar5Tce7BUyyM", 
+                    "duration_ms": 398106, 
+                    "album_name": "Honey - Single"
+                }, 
+                {
+                    "pos": 13, 
+                    "artist_name": "Ellie Goulding", 
+                    "track_uri": "spotify:track:638fKB27P7UAmu3Aq0vEJ3", 
+                    "artist_uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ", 
+                    "track_name": "Still Falling For You - From \"Bridget Jones's Baby\"", 
+                    "album_uri": "spotify:album:5YCwdMjxlC5hmHO8NcMoRE", 
+                    "duration_ms": 240867, 
+                    "album_name": "Still Falling For You"
+                }, 
+                {
+                    "pos": 14, 
+                    "artist_name": "Banks", 
+                    "track_uri": "spotify:track:6923H6OtBkxdFrepzaVXMd", 
+                    "artist_uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n", 
+                    "track_name": "Gemini Feed", 
+                    "album_uri": "spotify:album:3SzNTLHbVm0borYWkbrzf0", 
+                    "duration_ms": 186333, 
+                    "album_name": "The Altar"
+                }, 
+                {
+                    "pos": 15, 
+                    "artist_name": "Sir Sly", 
+                    "track_uri": "spotify:track:1JKm7rYG9WmBUMcN1hb8Yy", 
+                    "artist_uri": "spotify:artist:3DFoVPonoAAt4EZ1FEI8ue", 
+                    "track_name": "You Haunt Me - Amtrac Remix", 
+                    "album_uri": "spotify:album:4tQrpY1Dh7F9Ny0JNd9XKo", 
+                    "duration_ms": 269133, 
+                    "album_name": "You Haunt Me"
+                }, 
+                {
+                    "pos": 16, 
+                    "artist_name": "Kiiara", 
+                    "track_uri": "spotify:track:3Y6edSmA3oflGDEKyTnOpu", 
+                    "artist_uri": "spotify:artist:4u5smJBskI6Adzv08PuiUP", 
+                    "track_name": "Hang up tha phone", 
+                    "album_uri": "spotify:album:2EvTMiJyF3H4BoxNCL4HLh", 
+                    "duration_ms": 220615, 
+                    "album_name": "low kii savage"
+                }, 
+                {
+                    "pos": 17, 
+                    "artist_name": "Troye Sivan", 
+                    "track_uri": "spotify:track:5gBEdUKVZJgvQwNu8pIQqy", 
+                    "artist_uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP", 
+                    "track_name": "for him.", 
+                    "album_uri": "spotify:album:5ouTDazE4LF9bVJPx1nlgW", 
+                    "duration_ms": 209058, 
+                    "album_name": "Blue Neighbourhood"
+                }, 
+                {
+                    "pos": 18, 
+                    "artist_name": "Bad Suns", 
+                    "track_uri": "spotify:track:41d2Q6DHcM20OdzynkRtvf", 
+                    "artist_uri": "spotify:artist:0YhUSm86okLWldQVwJkLlP", 
+                    "track_name": "Daft Pretty Boys", 
+                    "album_uri": "spotify:album:2YXl7mV4d30fEbwpVQ7YBQ", 
+                    "duration_ms": 187013, 
+                    "album_name": "Disappear Here"
+                }, 
+                {
+                    "pos": 19, 
+                    "artist_name": "Fickle Friends", 
+                    "track_uri": "spotify:track:7apNd450354Jj8tQ5ThB7S", 
+                    "artist_uri": "spotify:artist:1nhSLEYdoBHG6cJ8NDwoF1", 
+                    "track_name": "Cry Baby", 
+                    "album_uri": "spotify:album:5SabAxgZ6DptDBQIHpXjSC", 
+                    "duration_ms": 186873, 
+                    "album_name": "Cry Baby"
+                }, 
+                {
+                    "pos": 20, 
+                    "artist_name": "How To Dress Well", 
+                    "track_uri": "spotify:track:36cNPxDZocGVGmyQF2BR6a", 
+                    "artist_uri": "spotify:artist:4jLcgJjDGmW0HmvbSf6lEI", 
+                    "track_name": "Lost Youth / Lost You", 
+                    "album_uri": "spotify:album:5PIpamvH4amBLBdCix1IyG", 
+                    "duration_ms": 339090, 
+                    "album_name": "Care"
+                }, 
+                {
+                    "pos": 21, 
+                    "artist_name": "Fickle Friends", 
+                    "track_uri": "spotify:track:3bhhM8sG53lsPYRpakieZB", 
+                    "artist_uri": "spotify:artist:1nhSLEYdoBHG6cJ8NDwoF1", 
+                    "track_name": "Swim", 
+                    "album_uri": "spotify:album:24ot4DH1D9EWUDXYKoqhyj", 
+                    "duration_ms": 197624, 
+                    "album_name": "Swim"
+                }, 
+                {
+                    "pos": 22, 
+                    "artist_name": "A R I Z O N A", 
+                    "track_uri": "spotify:track:2XBWT6qciUWR1HCmiPwrEV", 
+                    "artist_uri": "spotify:artist:7hOGhpa8RMSuDOWntGIAJt", 
+                    "track_name": "People Crying Every Night", 
+                    "album_uri": "spotify:album:1glsDIZI9OpQQ1rNNk54xl", 
+                    "duration_ms": 221550, 
+                    "album_name": "People Crying Every Night"
+                }, 
+                {
+                    "pos": 23, 
+                    "artist_name": "Ariana Grande", 
+                    "track_uri": "spotify:track:3FiE2d325mIOc4YjkSLVJR", 
+                    "artist_uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR", 
+                    "track_name": "Everyday", 
+                    "album_uri": "spotify:album:4lVR2fg3DAUQpGVJ6DciHW", 
+                    "duration_ms": 194840, 
+                    "album_name": "Dangerous Woman"
+                }, 
+                {
+                    "pos": 24, 
+                    "artist_name": "Majid Jordan", 
+                    "track_uri": "spotify:track:2JbdPdo3teVFRWrislXwPn", 
+                    "artist_uri": "spotify:artist:4HzKw8XcD0piJmDrrPRCYk", 
+                    "track_name": "Make It Work", 
+                    "album_uri": "spotify:album:7awpB1UEVeDF6h8mGMssTI", 
+                    "duration_ms": 224373, 
+                    "album_name": "Majid Jordan"
+                }, 
+                {
+                    "pos": 25, 
+                    "artist_name": "Astrid S", 
+                    "track_uri": "spotify:track:60lwJa695S26FsYbhCVFVa", 
+                    "artist_uri": "spotify:artist:3AVfmawzu83sp94QW7CEGm", 
+                    "track_name": "Hurts So Good", 
+                    "album_uri": "spotify:album:5xzkyCZ5LEOmI3a3bvrNIa", 
+                    "duration_ms": 208728, 
+                    "album_name": "Astrid S"
+                }, 
+                {
+                    "pos": 26, 
+                    "artist_name": "Tame Impala", 
+                    "track_uri": "spotify:track:4g3Ax56IslQkI6XVfYKVc5", 
+                    "artist_uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb", 
+                    "track_name": "The Less I Know The Better", 
+                    "album_uri": "spotify:album:0rxKf57PZvWEoU8v3m5W2q", 
+                    "duration_ms": 216318, 
+                    "album_name": "Currents"
+                }, 
+                {
+                    "pos": 27, 
+                    "artist_name": "Troye Sivan", 
+                    "track_uri": "spotify:track:5l7kmmus0Gwec1oAUNYbNM", 
+                    "artist_uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP", 
+                    "track_name": "WILD - Young Bombs Remix", 
+                    "album_uri": "spotify:album:32nXbXyX7QwUhKcDsckork", 
+                    "duration_ms": 202778, 
+                    "album_name": "Blue Neighbourhood"
+                }, 
+                {
+                    "pos": 28, 
+                    "artist_name": "Flume", 
+                    "track_uri": "spotify:track:12REd1n8PeiHHWOh066tpr", 
+                    "artist_uri": "spotify:artist:6nxWCVXbOlEVRexSbLsTer", 
+                    "track_name": "Never Be Like You", 
+                    "album_uri": "spotify:album:3zXR5GOXPq0Uc7tWC9fO3X", 
+                    "duration_ms": 233337, 
+                    "album_name": "Skin"
+                }, 
+                {
+                    "pos": 29, 
+                    "artist_name": "DJ Snake", 
+                    "track_uri": "spotify:track:4pdPtRcBmOSQDlJ3Fk945m", 
+                    "artist_uri": "spotify:artist:540vIaP2JwjQb9dm3aArA4", 
+                    "track_name": "Let Me Love You", 
+                    "album_uri": "spotify:album:55bbXORm6ZrVq52zfZnxBf", 
+                    "duration_ms": 205946, 
+                    "album_name": "Encore"
+                }, 
+                {
+                    "pos": 30, 
+                    "artist_name": "A R I Z O N A", 
+                    "track_uri": "spotify:track:3a2MbZSw3NGRWHqsCJ4iQj", 
+                    "artist_uri": "spotify:artist:7hOGhpa8RMSuDOWntGIAJt", 
+                    "track_name": "I Was Wrong", 
+                    "album_uri": "spotify:album:2FNk380jCQyICbwtkOdEHE", 
+                    "duration_ms": 217293, 
+                    "album_name": "GALLERY"
+                }, 
+                {
+                    "pos": 31, 
+                    "artist_name": "Kita Alexander", 
+                    "track_uri": "spotify:track:6u3OatqyTB6gY8xbkSL50y", 
+                    "artist_uri": "spotify:artist:3CGuwWgoCYSO5Z72H5G2Ec", 
+                    "track_name": "Plain Sight", 
+                    "album_uri": "spotify:album:791YOj0Yz76nrTtTbhGHeC", 
+                    "duration_ms": 182069, 
+                    "album_name": "Like You Want To EP"
+                }, 
+                {
+                    "pos": 32, 
+                    "artist_name": "Nightly", 
+                    "track_uri": "spotify:track:0HbUACbnUZ6NvgFvVyUuC3", 
+                    "artist_uri": "spotify:artist:3qDMrpZHtZEtVl5i1l7hP3", 
+                    "track_name": "XO", 
+                    "album_uri": "spotify:album:1yuVbqSZGDRGypi9LfBzNm", 
+                    "duration_ms": 185000, 
+                    "album_name": "Honest"
+                }, 
+                {
+                    "pos": 33, 
+                    "artist_name": "Fickle Friends", 
+                    "track_uri": "spotify:track:3cAGiG8ara98xC6639KYFZ", 
+                    "artist_uri": "spotify:artist:1nhSLEYdoBHG6cJ8NDwoF1", 
+                    "track_name": "Cry Baby - HONNE Remix", 
+                    "album_uri": "spotify:album:4UsEwqejKt84ISQBouB36J", 
+                    "duration_ms": 250198, 
+                    "album_name": "Cry Baby"
+                }, 
+                {
+                    "pos": 34, 
+                    "artist_name": "The xx", 
+                    "track_uri": "spotify:track:0bXpmJyHHYPk6QBFj25bYF", 
+                    "artist_uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy", 
+                    "track_name": "Intro", 
+                    "album_uri": "spotify:album:2nXJkqkS1tIKIyhBcFMmwz", 
+                    "duration_ms": 127920, 
+                    "album_name": "xx"
+                }, 
+                {
+                    "pos": 35, 
+                    "artist_name": "Foster The People", 
+                    "track_uri": "spotify:track:5fgb3Md1xjt3mxeBqguiIA", 
+                    "artist_uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc", 
+                    "track_name": "I Would Do Anything for You", 
+                    "album_uri": "spotify:album:7Kmmw7Z5D2UD5MVwdm10sT", 
+                    "duration_ms": 214080, 
+                    "album_name": "Torches"
+                }, 
+                {
+                    "pos": 36, 
+                    "artist_name": "Phoenix", 
+                    "track_uri": "spotify:track:3XNXnjEct81xIRjtGPP3NJ", 
+                    "artist_uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU", 
+                    "track_name": "Girlfriend", 
+                    "album_uri": "spotify:album:6YXmQrXOjJoMheJ2IA5NqK", 
+                    "duration_ms": 204106, 
+                    "album_name": "Wolfgang Amadeus Phoenix"
+                }, 
+                {
+                    "pos": 37, 
+                    "artist_name": "Bag Raiders", 
+                    "track_uri": "spotify:track:0UeYCHOETPfai02uskjJ3x", 
+                    "artist_uri": "spotify:artist:6fXEqmGQEt6ONuqVmwrN46", 
+                    "track_name": "Shooting Stars", 
+                    "album_uri": "spotify:album:6zVi5jNALX1GeD3MxiFmqo", 
+                    "duration_ms": 235813, 
+                    "album_name": "Bag Raiders"
+                }, 
+                {
+                    "pos": 38, 
+                    "artist_name": "M\u00d8", 
+                    "track_uri": "spotify:track:31eH7YC0zPf98WOhczf1hx", 
+                    "artist_uri": "spotify:artist:0bdfiayQAKewqEvaU6rXCv", 
+                    "track_name": "Maiden", 
+                    "album_uri": "spotify:album:13xRSfodlL3UtG3xSyL8u2", 
+                    "duration_ms": 226346, 
+                    "album_name": "No Mythologies to Follow (Deluxe)"
+                }, 
+                {
+                    "pos": 39, 
+                    "artist_name": "Third Eye Blind", 
+                    "track_uri": "spotify:track:51qMnEke2HrZJPy45SIh1l", 
+                    "artist_uri": "spotify:artist:6TcnmlCSxihzWOQJ8k0rNS", 
+                    "track_name": "Blinded [When I See You]", 
+                    "album_uri": "spotify:album:5Z1mU7iT0rfX9o9qzM1zYf", 
+                    "duration_ms": 261906, 
+                    "album_name": "Out Of The Vein"
+                }, 
+                {
+                    "pos": 40, 
+                    "artist_name": "Zella Day", 
+                    "track_uri": "spotify:track:1jPZgfC9tWFNf7iBGdrTPV", 
+                    "artist_uri": "spotify:artist:100sLnojEpcadRx4edEBA6", 
+                    "track_name": "Sweet Ophelia", 
+                    "album_uri": "spotify:album:600XgAY1N6sRPVczmBogiF", 
+                    "duration_ms": 189026, 
+                    "album_name": "Kicker"
+                }, 
+                {
+                    "pos": 41, 
+                    "artist_name": "Zella Day", 
+                    "track_uri": "spotify:track:3UVuhaEDEr7RbLGX1jHrXC", 
+                    "artist_uri": "spotify:artist:100sLnojEpcadRx4edEBA6", 
+                    "track_name": "Mustang Kids", 
+                    "album_uri": "spotify:album:600XgAY1N6sRPVczmBogiF", 
+                    "duration_ms": 182373, 
+                    "album_name": "Kicker"
+                }, 
+                {
+                    "pos": 42, 
+                    "artist_name": "Wolf Alice", 
+                    "track_uri": "spotify:track:5JUs6U8mss6hrcndYdbHMx", 
+                    "artist_uri": "spotify:artist:3btzEQD6sugImIHPMRgkwV", 
+                    "track_name": "Your Loves Whore", 
+                    "album_uri": "spotify:album:7H92edn2BRqtXLxWPtnj5U", 
+                    "duration_ms": 297386, 
+                    "album_name": "My Love Is Cool"
+                }, 
+                {
+                    "pos": 43, 
+                    "artist_name": "LANY", 
+                    "track_uri": "spotify:track:7EXSbDVsIiPdN0VwVyDoZd", 
+                    "artist_uri": "spotify:artist:49tQo2QULno7gxHutgccqF", 
+                    "track_name": "Made In Hollywood", 
+                    "album_uri": "spotify:album:4sldmS76FbpIaO2sEsZlBh", 
+                    "duration_ms": 214245, 
+                    "album_name": "Make Out"
+                }, 
+                {
+                    "pos": 44, 
+                    "artist_name": "Sugarcult", 
+                    "track_uri": "spotify:track:7617XYtHZvlJPEwWsx4QoX", 
+                    "artist_uri": "spotify:artist:04RtvnUz0XrUbUZzOA8ZoW", 
+                    "track_name": "Do It Alone", 
+                    "album_uri": "spotify:album:771aiFNWSoOrZfRQ4jWLOc", 
+                    "duration_ms": 187200, 
+                    "album_name": "Lights Out"
+                }, 
+                {
+                    "pos": 45, 
+                    "artist_name": "BANNERS", 
+                    "track_uri": "spotify:track:3efXxXuRf7Rs1quYKkoRmJ", 
+                    "artist_uri": "spotify:artist:4qWnlmXWuGv2TtuxtIWlJX", 
+                    "track_name": "Start A Riot", 
+                    "album_uri": "spotify:album:52icjimDK2LrePhT0lFtTU", 
+                    "duration_ms": 215333, 
+                    "album_name": "Start A Riot"
+                }, 
+                {
+                    "pos": 46, 
+                    "artist_name": "LANY", 
+                    "track_uri": "spotify:track:2BL0OrWVgMzEUFdTbfRf0W", 
+                    "artist_uri": "spotify:artist:49tQo2QULno7gxHutgccqF", 
+                    "track_name": "yea, babe, no way", 
+                    "album_uri": "spotify:album:42jFcn7WDz3hkdkEUUQaM7", 
+                    "duration_ms": 219440, 
+                    "album_name": "kinda"
+                }, 
+                {
+                    "pos": 47, 
+                    "artist_name": "V\u00c9RIT\u00c9", 
+                    "track_uri": "spotify:track:34i4yxPrHWquuR4kjiivFO", 
+                    "artist_uri": "spotify:artist:1Fr6agZ6iSM5Ynn2k4C8sc", 
+                    "track_name": "Somebody Else", 
+                    "album_uri": "spotify:album:3Q4yhhyFA2cpZq2FGOgMwU", 
+                    "duration_ms": 233076, 
+                    "album_name": "Somebody Else"
+                }, 
+                {
+                    "pos": 48, 
+                    "artist_name": "Kings of Leon", 
+                    "track_uri": "spotify:track:5LlsD7LdSMkGV4Iu0a2Zq0", 
+                    "artist_uri": "spotify:artist:2qk9voo8llSGYcZ6xrBzKx", 
+                    "track_name": "Waste A Moment", 
+                    "album_uri": "spotify:album:08ibdX8K0GETv20UEku3sm", 
+                    "duration_ms": 183093, 
+                    "album_name": "WALLS"
+                }, 
+                {
+                    "pos": 49, 
+                    "artist_name": "Bastille", 
+                    "track_uri": "spotify:track:6gp4WaJIxgEwgRLvlelmwa", 
+                    "artist_uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc", 
+                    "track_name": "Warmth", 
+                    "album_uri": "spotify:album:5NfeW0DqFVT3Su3kHBgTf4", 
+                    "duration_ms": 229627, 
+                    "album_name": "Wild World"
+                }, 
+                {
+                    "pos": 50, 
+                    "artist_name": "Bastille", 
+                    "track_uri": "spotify:track:0x2VaCNfT2xoyrcI3wM42S", 
+                    "artist_uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc", 
+                    "track_name": "An Act Of Kindness", 
+                    "album_uri": "spotify:album:5NfeW0DqFVT3Su3kHBgTf4", 
+                    "duration_ms": 208267, 
+                    "album_name": "Wild World"
+                }, 
+                {
+                    "pos": 51, 
+                    "artist_name": "Bastille", 
+                    "track_uri": "spotify:track:6F92C7aYYFq0AMQgXzS8o5", 
+                    "artist_uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc", 
+                    "track_name": "The Currents", 
+                    "album_uri": "spotify:album:5NfeW0DqFVT3Su3kHBgTf4", 
+                    "duration_ms": 204012, 
+                    "album_name": "Wild World"
+                }, 
+                {
+                    "pos": 52, 
+                    "artist_name": "Ariana Grande", 
+                    "track_uri": "spotify:track:3tRFqxTYOjeTmCiVaGDCsq", 
+                    "artist_uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR", 
+                    "track_name": "Be Alright", 
+                    "album_uri": "spotify:album:4lVR2fg3DAUQpGVJ6DciHW", 
+                    "duration_ms": 179293, 
+                    "album_name": "Dangerous Woman"
+                }, 
+                {
+                    "pos": 53, 
+                    "artist_name": "B\u00d8RNS", 
+                    "track_uri": "spotify:track:5L27h9sZjEtNfuveLggaCY", 
+                    "artist_uri": "spotify:artist:1KP6TWI40m7p3QBTU6u2xo", 
+                    "track_name": "American Money - Virtu Remix", 
+                    "album_uri": "spotify:album:5JLSERosmMHJfvBx5cVF5d", 
+                    "duration_ms": 224413, 
+                    "album_name": "American Money"
+                }, 
+                {
+                    "pos": 54, 
+                    "artist_name": "HalfNoise", 
+                    "track_uri": "spotify:track:2fwOoTrIyzEYvYjeY9sOZa", 
+                    "artist_uri": "spotify:artist:0y0UzT7xPdd9niCbsODXES", 
+                    "track_name": "Love You Back", 
+                    "album_uri": "spotify:album:3LDLKmjb2Tr7ltZfiUvsqq", 
+                    "duration_ms": 178224, 
+                    "album_name": "Sudden Feeling"
+                }, 
+                {
+                    "pos": 55, 
+                    "artist_name": "Phangs", 
+                    "track_uri": "spotify:track:0XzHylwZVvpzMObYmqX5ri", 
+                    "artist_uri": "spotify:artist:7zDSYCgSGUDOaKiXUiZkpi", 
+                    "track_name": "Cul De Sac", 
+                    "album_uri": "spotify:album:2RAeZ4l4q0phX0OLz8bb85", 
+                    "duration_ms": 203009, 
+                    "album_name": "Get in My Arms"
+                }, 
+                {
+                    "pos": 56, 
+                    "artist_name": "LANY", 
+                    "track_uri": "spotify:track:5vqpqBAB8L9NyhLZo0ZKie", 
+                    "artist_uri": "spotify:artist:49tQo2QULno7gxHutgccqF", 
+                    "track_name": "current location", 
+                    "album_uri": "spotify:album:2XQhKfcXw1TrOB1QQPWSSl", 
+                    "duration_ms": 189010, 
+                    "album_name": "kinda"
+                }, 
+                {
+                    "pos": 57, 
+                    "artist_name": "V\u00c9RIT\u00c9", 
+                    "track_uri": "spotify:track:4WMCllwqU4hot6yqJcxWoH", 
+                    "artist_uri": "spotify:artist:1Fr6agZ6iSM5Ynn2k4C8sc", 
+                    "track_name": "Constant Crush - Mansionair Remix", 
+                    "album_uri": "spotify:album:7FCgnfBM7TYNGJWo7lBlTb", 
+                    "duration_ms": 258285, 
+                    "album_name": "Constant Crush (Mansionair Remix)"
+                }, 
+                {
+                    "pos": 58, 
+                    "artist_name": "Santigold", 
+                    "track_uri": "spotify:track:7d23MhPFE9eB3U8DPRirnL", 
+                    "artist_uri": "spotify:artist:6Jrxnp0JgqmeUX1veU591p", 
+                    "track_name": "Disparate Youth", 
+                    "album_uri": "spotify:album:69jrxUSjHoEu6PeBMq3273", 
+                    "duration_ms": 284400, 
+                    "album_name": "Master of My Make-Believe"
+                }, 
+                {
+                    "pos": 59, 
+                    "artist_name": "Calvin Harris", 
+                    "track_uri": "spotify:track:1vvNmPOiUuyCbgWmtc6yfm", 
+                    "artist_uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY", 
+                    "track_name": "My Way", 
+                    "album_uri": "spotify:album:0dzeoQhVNzKkwM5ieOJC54", 
+                    "duration_ms": 219159, 
+                    "album_name": "My Way"
+                }, 
+                {
+                    "pos": 60, 
+                    "artist_name": "AlunaGeorge", 
+                    "track_uri": "spotify:track:7k6Wf3BN6m2kCGIAfouMwP", 
+                    "artist_uri": "spotify:artist:2VAnyOxzJuSAj7XIuEOT38", 
+                    "track_name": "Not Above Love", 
+                    "album_uri": "spotify:album:6DXbJ213F5VGlyLJMS9XDM", 
+                    "duration_ms": 190346, 
+                    "album_name": "I Remember"
+                }, 
+                {
+                    "pos": 61, 
+                    "artist_name": "Bad Suns", 
+                    "track_uri": "spotify:track:277XsneDiv30dhONPCOmrF", 
+                    "artist_uri": "spotify:artist:0YhUSm86okLWldQVwJkLlP", 
+                    "track_name": "Off She Goes", 
+                    "album_uri": "spotify:album:2YXl7mV4d30fEbwpVQ7YBQ", 
+                    "duration_ms": 236440, 
+                    "album_name": "Disappear Here"
+                }, 
+                {
+                    "pos": 62, 
+                    "artist_name": "Bad Suns", 
+                    "track_uri": "spotify:track:5dMBXBIu07XRtl3dwrbmlK", 
+                    "artist_uri": "spotify:artist:0YhUSm86okLWldQVwJkLlP", 
+                    "track_name": "Patience", 
+                    "album_uri": "spotify:album:2YXl7mV4d30fEbwpVQ7YBQ", 
+                    "duration_ms": 211506, 
+                    "album_name": "Disappear Here"
+                }, 
+                {
+                    "pos": 63, 
+                    "artist_name": "Dillon Francis", 
+                    "track_uri": "spotify:track:0fMMtO0pOYIGWfbJmrqfVJ", 
+                    "artist_uri": "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf", 
+                    "track_name": "Anywhere", 
+                    "album_uri": "spotify:album:3uRfl5ZsFJpuYj2z1YjXKC", 
+                    "duration_ms": 177595, 
+                    "album_name": "Anywhere"
+                }
+            ], 
+            "num_edits": 9, 
+            "duration_ms": 14078091, 
+            "num_artists": 45
+        }
+    ]
+}
