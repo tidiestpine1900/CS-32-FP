@@ -13,9 +13,11 @@ Given ~1000 sample playlists to work with, my script can generate "curated" play
 
 **Sample input and output**
 
-Input: "Playlist minimum length: 5
+Input: 
+        "Playlist minimum length: 5
         Artist: Drake" 
-Output: "Great taste! 
+Output: 
+        "Great taste! 
 
         Here's your new playlist: 
         1. From Florida with Love
@@ -24,6 +26,6 @@ Output: "Great taste!
         4. Look What You've Done
         5. Now & Forever
         
-        Enjoy!"*
+        Enjoy!" **
         
-* I am considering providing the option to obtain an actual Spotify link to the new playlist... if this is possible. 
+** I am considering providing the option to obtain an actual Spotify link to the new playlist... if this is possible. 
