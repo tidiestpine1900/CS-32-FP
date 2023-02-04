@@ -1,4 +1,4 @@
-# CS-32-FP
+# Spotify Playlist Producer
 
 **Author**
 
